@@ -1,0 +1,16 @@
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\bin\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.exe
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\bin\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.deps.json
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\bin\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.runtimeconfig.json
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\bin\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.runtimeconfig.dev.json
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\bin\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.dll
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\bin\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.pdb
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\obj\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.csproj.AssemblyReference.cache
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\obj\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\obj\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.AssemblyInfoInputs.cache
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\obj\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.AssemblyInfo.cs
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\obj\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.csproj.CoreCompileInputs.cache
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\obj\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.dll
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\obj\Debug\net5.0\refint\Exercicio_Enumeracao_Composicao_2.dll
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\obj\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.pdb
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\obj\Debug\net5.0\Exercicio_Enumeracao_Composicao_2.genruntimeconfig.cache
+C:\Users\Walter Nogueira\Documents\CSharp\SideProject\New folder\Exercicios\Exercicio_Enumeracao_Composicao_2\obj\Debug\net5.0\ref\Exercicio_Enumeracao_Composicao_2.dll
