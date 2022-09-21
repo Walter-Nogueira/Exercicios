@@ -27,5 +27,7 @@ namespace Exercicio_Enumeracao_Composicao_3.Entities
         {
             return Price * Quantity;
         }
+
+        
     }
 }
